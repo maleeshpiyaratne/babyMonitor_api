@@ -1,0 +1,19 @@
+{
+  "name": "baby_api",
+  "version": "1.0.0",
+  "description": "Http api for baby monitoring application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maleeshpiyaratne/baby_api.git"
+  },
+  "author": "Maleesh Piyaratne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maleeshpiyaratne/baby_api/issues"
+  },
+  "homepage": "https://github.com/maleeshpiyaratne/baby_api#readme"
+}
